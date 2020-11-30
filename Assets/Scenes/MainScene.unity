@@ -190,7 +190,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Damas inglesas
+  m_Text: Ajedrez
 --- !u!222 &105725443
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -420,7 +420,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ecf1c62af86fb41e39dbde394745ffbd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scene_name: Game_4
+  scene_name: TicTacToe
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -783,7 +783,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Otro
+  m_Text: TicTacToe
 --- !u!222 &1433861992
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -935,7 +935,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ecf1c62af86fb41e39dbde394745ffbd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scene_name: Game_3
+  scene_name: Ajedrez
 --- !u!1 &1824926819
 GameObject:
   m_ObjectHideFlags: 0
@@ -1079,7 +1079,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ecf1c62af86fb41e39dbde394745ffbd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scene_name: Game_2
+  scene_name: Memorama
 --- !u!1 &2019577327
 GameObject:
   m_ObjectHideFlags: 0
