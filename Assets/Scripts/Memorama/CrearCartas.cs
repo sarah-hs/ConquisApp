@@ -44,8 +44,8 @@ public class CrearCartas : MonoBehaviour {
         int cont = 0;
         for(int i = 0; i < ancho; i++){
             for(int x = 0; x < ancho; x++){
-                float factor = 9.0f / ancho;
-                Vector3 posicionTemp = new Vector3(x*factor, 0, i*factor);
+                float factor = 8.0f / ancho;
+                Vector3 posicionTemp = new Vector3(x*factor, 0, i*factor*0.9f+1.1f);
 
                 GameObject cartaTemp = Instantiate(CartaPrefab, posicionTemp, Quaternion.Euler(new Vector3(0, 180, 0)));
 
