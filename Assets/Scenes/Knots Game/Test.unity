@@ -1295,6 +1295,17 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 7271727463076225551}
+        m_MethodName: playClick
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &97325118
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1344,7 +1355,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ecf1c62af86fb41e39dbde394745ffbd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scene_name: Knots_game
+  scene_name: MainScene
 --- !u!1 &104567061
 GameObject:
   m_ObjectHideFlags: 0
@@ -22599,6 +22610,17 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 7271727463076225551}
+        m_MethodName: playClick
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1408161543
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30148,6 +30170,17 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 7271727463076225551}
+        m_MethodName: playClick
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1990628563
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32865,7 +32898,7 @@ PrefabInstance:
     - target: {fileID: 2445958394176497708, guid: 3daa96253f06a454abf52d3c75edf60e,
         type: 3}
       propertyPath: scene_name
-      value: Knots_game
+      value: MainScene
       objectReference: {fileID: 0}
     - target: {fileID: 2445958394176497709, guid: 3daa96253f06a454abf52d3c75edf60e,
         type: 3}
@@ -33132,6 +33165,18 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 7271727463076225549}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &7271727463076225551 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 747609104000151270, guid: 159102c6858f94c2fa2bc4a20c23914e,
+    type: 3}
+  m_PrefabInstance: {fileID: 7271727463076225549}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fad2e014d06146c4b9d9202164c668d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!222 &7271727463878197242
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -33214,6 +33259,17 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 578462255}
         m_MethodName: NextQuestion
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 7271727463076225551}
+        m_MethodName: playClick
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -33420,6 +33476,17 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 578462255}
         m_MethodName: PrevQuestion
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 7271727463076225551}
+        m_MethodName: playClick
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
