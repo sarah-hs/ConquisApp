@@ -655,8 +655,8 @@ MonoBehaviour:
   m_Padding:
     m_Left: 0
     m_Right: 0
-    m_Top: 5
-    m_Bottom: 50
+    m_Top: 20
+    m_Bottom: 70
   m_ChildAlignment: 1
   m_StartCorner: 0
   m_StartAxis: 0
@@ -701,7 +701,7 @@ RectTransform:
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 20, y: 0}
+  m_SizeDelta: {x: 10, y: 0}
   m_Pivot: {x: 1, y: 1}
 --- !u!114 &371440747
 MonoBehaviour:
@@ -746,7 +746,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 670219789}
   m_Direction: 2
   m_Value: 1
-  m_Size: 0.5403453
+  m_Size: 0.16666669
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -1654,8 +1654,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 8909940}
   m_HandleRect: {fileID: 8909939}
   m_Direction: 0
-  m_Value: 1
-  m_Size: 0.99999994
+  m_Value: 0
+  m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -2891,8 +2891,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -48}
-  m_SizeDelta: {x: 764.50995, y: 354.71582}
+  m_AnchoredPosition: {x: 0, y: -40}
+  m_SizeDelta: {x: 690, y: 372}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1953959706
 MonoBehaviour:
@@ -2913,7 +2913,7 @@ MonoBehaviour:
   m_Elasticity: 0.1
   m_Inertia: 1
   m_DecelerationRate: 0.135
-  m_ScrollSensitivity: 2
+  m_ScrollSensitivity: 3
   m_Viewport: {fileID: 1989122558}
   m_HorizontalScrollbar: {fileID: 1091372145}
   m_VerticalScrollbar: {fileID: 371440747}
