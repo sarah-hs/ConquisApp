@@ -1,4 +1,4 @@
-![](Documentación%20de%20juego%20en%20Unity%20-%20Conquis%20App.001.png)![](Documentación%20de%20juego%20en%20Unity%20-%20Conquis%20App.003.png)![](Documentación%20de%20juego%20en%20Unity%20-%20Conquis%20App.002.png)
+![](Documentación%20de%20juego%20en%20Unity%20-%20Conquis%20App.001.png)![](Documentación%20de%20juego%20en%20Unity%20-%20Conquis%20App.002.png)
 # Conquis App
 
 Documentación del juego
@@ -252,6 +252,7 @@ desea terminar.
 **YesFinished() -** ​si el usuario desea terminar el juego entonces este método carga la
 escena del menú inicial.
 
+```
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -352,6 +353,7 @@ public void CancelFinished()
 panel_terminar.gameObject.SetActive(false);
 }
 }
+```
 
 #### 3.4 Capturas de pantalla
 
