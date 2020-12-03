@@ -30,7 +30,7 @@ Ing. Ignacio Cruz Domínguez
 
 
 - Documentación del Juego
-   - 1. Introducción
+   - 1. [Introducción](#_page3_x72.00_y132.75) [4](#_page3_x72.00_y132.75) 
       - 1.1 Descripción
       - 1.2 Requisitos mínimos del sistema
    - 2. Pantalla principal
