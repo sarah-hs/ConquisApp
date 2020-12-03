@@ -1,7 +1,7 @@
 ![](/img/Documentación%20de%20juego%20en%20Unity%20-%20Conquis%20App.001.png)![](/img/Documentación%20de%20juego%20en%20Unity%20-%20Conquis%20App.002.png)
 # Conquis App
 
-Documentación del juego
+### Documentación del juego
 
 ```
 Universidad de Montemorelos
@@ -14,11 +14,12 @@ Michael Arthur
 Samuel Pérez
 Sarah Hernández
 ```
+```
 En cumplimiento a la materia de:
 Desarrollo de Software para entretenimiento
-
 ```
-Profesor.
+```
+Profesor:
 Ing. Ignacio Cruz Domínguez
 ```
 ```
@@ -115,22 +116,23 @@ futuros trabajos estos puntajes se pueden actualizar vía internet para poder co
 contra otros jugadores.
 Género: cualquier público, principalmente jóvenes conquistadores o maestros que
 trabajan en el área de conquistadores.
+
 Consiste en los siguientes juegos:
-● Especialidad de nudos
-● Memorama de personajes bíblicos
-● Tic-tac-toe
-● Damas inglesas
-● Ajedrez
+- Especialidad de nudos
+- Memorama de personajes bíblicos
+- Tic-tac-toe
+- Damas inglesas
+- Ajedrez
 
 #### 1.2 Requisitos mínimos del sistema
 
-Plataforma: PC
-SO: Windows 7/8/
-Procesador: Intel Pentium Dual Core / AMD FX
-Memoria: 2 GB RAM
-Tarjeta de Video: Intel HD Graphics
-Almacenamiento: 100 MB de espacio libre
-Tarjeta de Sonido: DirectX
+- Plataforma: PC
+- SO: Windows 7/8/
+- Procesador: Intel Pentium Dual Core / AMD FX
+- Memoria: 2 GB RAM
+- Tarjeta de Video: Intel HD Graphics
+- Almacenamiento: 100 MB de espacio libre
+- Tarjeta de Sonido: DirectX
 
 ### 2. Pantalla principal
 
