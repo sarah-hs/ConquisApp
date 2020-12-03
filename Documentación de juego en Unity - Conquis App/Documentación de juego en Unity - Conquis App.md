@@ -149,7 +149,9 @@ Sonido: [https://answers.unity.com/questions/1339832/c-on-click-sound-to-play-be
 ##### 2.2.1 Fuentes de letra
 
 Las fuentes de letra descargadas de FontSpace que utilizamos:
+
 Lyons: ​https://www.fontspace.com/lyons-2-font-f
+
 y Retronome regular: ​https://www.fontspace.com/retronome-font-f
 
 ##### 2.2.2 Assets
