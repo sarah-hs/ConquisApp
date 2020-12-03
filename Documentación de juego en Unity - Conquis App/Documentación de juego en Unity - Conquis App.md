@@ -138,7 +138,9 @@ Tarjeta de Sonido: DirectX
 
 Utilizamos los siguientes tutoriales para crear el código de funcionamiento de la pantalla principal: <https://www.youtube.com/watch?v=-SL8Zhtxb9c>  <https://www.youtube.com/watch?v=EdhurHPM7Gk> 
 
-Añadir o quitar sonido al dar click: <https://www.youtube.com/watch?v=FxedJgTsFyQ> Sonido: [https://answers.unity.com/questions/1339832/c-on-click-sound-to-play-before-loading-sc ene.html](https://answers.unity.com/questions/1339832/c-on-click-sound-to-play-before-loading-scene.html)
+Añadir o quitar sonido al dar click: <https://www.youtube.com/watch?v=FxedJgTsFyQ> 
+
+Sonido: [https://answers.unity.com/questions/1339832/c-on-click-sound-to-play-before-loading-sc ene.html](https://answers.unity.com/questions/1339832/c-on-click-sound-to-play-before-loading-scene.html)
 
 [https://answers.unity.com/questions/1531220/how-to-play-a-sound-when-a-prefab-butto n-that-chan.html](https://answers.unity.com/questions/1531220/how-to-play-a-sound-when-a-prefab-button-that-chan.html)
 
@@ -194,17 +196,17 @@ exitGame() - Cierra la aplicación.
 
 Este método se implementa en el botón que abre un panel como el de settings o el de
 info del juego. Contiene los siguientes métodos:
+```
 openandclose() - determina si el panel está abierto y lo cierra o viceversa.
+```
 
 ##### 2.3.2 Script: SoundManager.cs
 
 Se encarga de hacer mute a la música y a los sonidos del juego. Además que aplica
 sonido al botón de click. Contiene los siguientes métodos:
+```
 stopMusic() - determina si la música se está reproduciendo y le pone stop o play.
 muteSounds() - mutea los sonidos del juego o los enciende.
-
-
-```
 playClick() - Reproduce un sonido de click al presionar un botón.
 ```
 #### 2.4 Capturas de pantalla
@@ -393,6 +395,7 @@ A continuación se presentan los tutoriales usados para construir el juego del m
 
 Tiene varios métodos pero sirve principalmente para asignar las cartas, para mostrar
 las cartas y para hacer los clicks cuando le pica a una carta.
+
 ![](Documentación%20de%20juego%20en%20Unity%20-%20Conquis%20App.016.png)
 
 
@@ -672,8 +675,6 @@ o diagonal en la izquierda o derecha.
 #### 6.3 Capturas de pantalla
 
 ![](Documentación%20de%20juego%20en%20Unity%20-%20Conquis%20App.046.png)
-
-![](Documentación%20de%20juego%20en%20Unity%20-%20Conquis%20App.047.png)
 
 ![](Documentación%20de%20juego%20en%20Unity%20-%20Conquis%20App.048.png)
 
